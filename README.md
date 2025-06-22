@@ -17,3 +17,4 @@ Mentor : Neela Santhosh Kumar
 In Task 4, we applied linear programming using the PuLP library to solve a real-world business optimization problem. The goal was to determine the optimal number of products A and B to maximize profit within the limits of labor and material. The model was solved using PuLP’s built-in solver, and the output helped derive actionable production decisions. This task demonstrates how mathematical modeling in Python can enhance decision-making in operational and manufacturing environments.
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/409c5124-1e4d-4dff-a5e7-9d76f2a51117)
